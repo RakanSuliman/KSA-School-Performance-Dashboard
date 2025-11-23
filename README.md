@@ -1,4 +1,5 @@
 # Education Performance Dashboard (Tarteeb)
+### This project is part of CS316 course [Introduction To AI And Data Science] taught by Dr.Omar Alomeir
 
 This repository contains two main components:
 
@@ -57,3 +58,11 @@ You can install the main libraries with:
 
 ```bash
 pip install streamlit pandas numpy altair scikit-learn matplotlib seaborn plotly
+```
+## 🙏 Acknowledgements
+I would like to thank my colleagues for their collaboration and support in this project:
+* **Nawaf AlTamimi**
+* **Mohammad Aldemaiji**
+* **Saud Alnasser**
+
+Their contributions were essential to the development and completion of this dashboard and analysis.
